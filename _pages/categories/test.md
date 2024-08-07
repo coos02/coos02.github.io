@@ -3,7 +3,7 @@ title: "카테고리 테스트"
 layout: archive
 permalink: categories/test
 author_profile: true
-sidebar_main: true
+sidebar: true
 ---
 
 ***
