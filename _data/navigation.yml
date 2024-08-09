@@ -3,37 +3,10 @@ main:
   - title: "Home"
     url: /index.html
 
-  - title: "Category"
-    url: /categories/
-
-  - title: "Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-
-docs:
-  - title: Getting Started
+categories:
+  - title: Category Test
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
+      - title: "test"
+        url: categories/test
       - title: "Navigation"
-        url: /docs/navigation/
-
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+        url: /categories/navigation
