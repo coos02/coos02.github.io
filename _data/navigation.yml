@@ -3,10 +3,9 @@ main:
   - title: "Home"
     url: /index.html
 
-categories:
+sidebar-category:
   - title: Category Test
     children:
       - title: "test"
-        url: categories/test
-      - title: "Navigation"
-        url: /categories/navigation
+        url: /categories
+        category: "blog"
